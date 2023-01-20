@@ -10,17 +10,17 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://space.bilibili.com/353927120"><img width="32px" alt="Bilibili" title="Bilibili" src="https://user-images.githubusercontent.com/68093996/213596914-70ab38e6-08e3-4def-b8e2-25f84c527aa5.png"/></a>
+  <a href="https://space.bilibili.com/353927120"><img width="32px" alt="Bilibili" title="Bilibili" src="https://user-images.githubusercontent.com/68093996/213606568-5bf1df5f-9a90-482c-8242-9d1a28288624.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://blog.csdn.net/qq_41793287"><img width="32px" alt="CSDN" title="CSDN" src="https://user-images.githubusercontent.com/68093996/213603033-d1d7b217-653e-44d6-8b1b-8db67cc244c1.png"/></a>
+  <a href="https://www.zhihu.com/people/oysoys"><img width="32px" alt="Zhihu" title="Zhihu" src="https://user-images.githubusercontent.com/68093996/213605937-c52e434f-1f2d-4e54-9a78-e871ec606648.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.kaggle.com/giftoys"><img width="32px" alt="Kaggle" title="Kaggle" src="https://user-images.githubusercontent.com/68093996/213604428-ca7acd2d-c71d-4b59-9c28-607489a09246.png"/></a>
+  <a href="https://weibo.com/u/6592087630"><img width="32px" alt="Weibo" title="Weibo" src="https://user-images.githubusercontent.com/68093996/213606359-075eb5aa-2115-4e9c-8193-8cedb92f33ef.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://blog.csdn.net/qq_41793287"><img width="32px" alt="CSDN" title="CSDN" src="https://user-images.githubusercontent.com/68093996/213606651-edf7c8bb-ef5a-4c55-947a-ee50bd8f6085.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.kaggle.com/giftoys"><img width="32px" alt="Kaggle" title="Kaggle" src="https://user-images.githubusercontent.com/68093996/213606764-cca20aea-fa09-4cd9-8433-5c5f6699235e.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://leetcode.cn/u/gift-w"><img width="32px" alt="LeetCode" title="LeetCode" src="https://user-images.githubusercontent.com/68093996/213604877-d64cac94-96d3-4d4f-9dc0-38b435bfd199.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 <br/>
@@ -42,75 +42,27 @@
 </p>
 
 <details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
-
-  <table>
-    <tr>
-      <!-- <th>$10+/month</th> -->
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/jesterb0206"><b>Bradley Jester</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
-
-<details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+    <a href="https://github.com/Gift-OYS/RecruitmentInformationCollectionAndStorageSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=RecruitmentInformationCollectionAndStorageSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RecruitmentInformationCollectionAndStorageSystem"></a>
+    <a href="https://github.com/Gift-OYS/PetAdoptionSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=PetAdoptionSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PetAdoptionSystem"></a>
+    <a href="https://github.com/Gift-OYS/GuliWeiBo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=GuliWeiBo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="GuliWeiBo"></a>
+    <a href="https://github.com/Gift-OYS/MarketManagementSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=MarketManagementSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MarketManagementSystem"></a>
+    <a href="https://github.com/Gift-OYS/ExhibitionTicketsManagementSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=ExhibitionTicketsManagementSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ExhibitionTicketsManagementSystem"></a>
+    <a href="https://github.com/Gift-OYS/ResaurantManagementSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=ResaurantManagementSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ResaurantManagementSystem"></a>
+    <a href="https://github.com/Gift-OYS/GourmetCoffeeSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=GourmetCoffeeSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="GourmetCoffeeSystem"></a>
+    <a href="https://github.com/Gift-OYS/WhetherTheFinancialCreditIsInDefault"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=WhetherTheFinancialCreditIsInDefault&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="WhetherTheFinancialCreditIsInDefault"></a>
+    <a href="https://github.com/Gift-OYS/WhetherTheIncomeGreaterThan50K"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=WhetherTheIncomeGreaterThan50K&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="WhetherTheIncomeGreaterThan50K"></a>
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Gift-OYS?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
-    <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
-    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
-    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
-    <a href="https://github.com/python-babel/babel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
-    <a href="https://github.com/nextcord/nextcord"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
-    <a href="https://github.com/PyCQA/autoflake"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
-
-<details open> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  <summary><h2>📺 Latest Bilibili Videos</h2></summary>
 
   <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
