@@ -9,6 +9,7 @@
 </p>
 
 <!-- Social icons section -->
+<!--
 <p align="center">
   <a href="https://space.bilibili.com/353927120"><img width="32px" alt="Bilibili" title="Bilibili" src="https://user-images.githubusercontent.com/68093996/213606568-5bf1df5f-9a90-482c-8242-9d1a28288624.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -22,8 +23,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://leetcode.cn/u/gift-w"><img width="32px" alt="LeetCode" title="LeetCode" src="https://user-images.githubusercontent.com/68093996/213604877-d64cac94-96d3-4d4f-9dc0-38b435bfd199.png"/></a>
 </p>
-
-<br/>
+-->
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
