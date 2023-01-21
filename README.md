@@ -39,10 +39,9 @@
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/Gift-OYS/RecruitmentInformationCollectionAndStorageSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=RecruitmentInformationCollectionAndStorageSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RecruitmentInformationCollectionAndStorageSystem"></a>
     <a href="https://github.com/Gift-OYS/PetAdoptionSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=PetAdoptionSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PetAdoptionSystem"></a>
     <a href="https://github.com/Gift-OYS/GuliWeiBo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=GuliWeiBo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="GuliWeiBo"></a>
@@ -53,8 +52,6 @@
     <a href="https://github.com/Gift-OYS/WhetherTheFinancialCreditIsInDefault"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=WhetherTheFinancialCreditIsInDefault&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="WhetherTheFinancialCreditIsInDefault"></a>
     <a href="https://github.com/Gift-OYS/WhetherTheIncomeGreaterThan50K"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=WhetherTheIncomeGreaterThan50K&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="WhetherTheIncomeGreaterThan50K"></a>
   </p>
-
-  <a href="https://github.com/Gift-OYS?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details open> 
