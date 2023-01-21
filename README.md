@@ -37,6 +37,14 @@
   <a href="https://github.com/Gift-OYS"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Gift-OYS?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> 
 </p>
 
+
+<p align="center">
+  <font size=434>😄 Wanna play a game? Click this image below!</font></br>
+  <a href="http://wayou.github.io/t-rex-runner/">
+    <img alt="T-Rex Runner" src="https://user-images.githubusercontent.com/68093996/213858932-10d6aa8e-d888-4a7e-819c-74cd0c01e707.gif" />
+  </a>
+</p>
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
