@@ -51,15 +51,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="center">
-    <a href="https://github.com/Gift-OYS/RecruitmentInformationCollectionAndStorageSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=RecruitmentInformationCollectionAndStorageSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RecruitmentInformationCollectionAndStorageSystem"></a>
-    <a href="https://github.com/Gift-OYS/PetAdoptionSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=PetAdoptionSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PetAdoptionSystem"></a>
-    <a href="https://github.com/Gift-OYS/GuliWeiBo"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=GuliWeiBo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="GuliWeiBo"></a>
-    <a href="https://github.com/Gift-OYS/MarketManagementSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=MarketManagementSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MarketManagementSystem"></a>
-    <a href="https://github.com/Gift-OYS/ExhibitionTicketsManagementSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=ExhibitionTicketsManagementSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ExhibitionTicketsManagementSystem"></a>
-    <a href="https://github.com/Gift-OYS/ResaurantManagementSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=ResaurantManagementSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ResaurantManagementSystem"></a>
-    <a href="https://github.com/Gift-OYS/GourmetCoffeeSystem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=GourmetCoffeeSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="GourmetCoffeeSystem"></a>
-    <a href="https://github.com/Gift-OYS/WhetherTheFinancialCreditIsInDefault"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=WhetherTheFinancialCreditIsInDefault&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="WhetherTheFinancialCreditIsInDefault"></a>
-    <a href="https://github.com/Gift-OYS/WhetherTheIncomeGreaterThan50K"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gift-OYS&repo=WhetherTheIncomeGreaterThan50K&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="WhetherTheIncomeGreaterThan50K"></a>
+    
   </p>
 </details>
 
