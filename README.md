@@ -4,26 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+intelligence+learner;Experienced+software+engineer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&pause=1000&size=20" />
 </p>
 
-<!-- Social icons section -->
-<!--
-<p align="center">
-  <a href="https://space.bilibili.com/353927120"><img width="32px" alt="Bilibili" title="Bilibili" src="https://user-images.githubusercontent.com/68093996/213606568-5bf1df5f-9a90-482c-8242-9d1a28288624.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://weibo.com/u/6592087630"><img width="32px" alt="Weibo" title="Weibo" src="https://user-images.githubusercontent.com/68093996/213606359-075eb5aa-2115-4e9c-8193-8cedb92f33ef.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.zhihu.com/people/oysoys"><img width="32px" alt="Zhihu" title="Zhihu" src="https://user-images.githubusercontent.com/68093996/213697694-f7fa3ab6-c7f4-486a-8ad2-4c85e177256d.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://blog.csdn.net/qq_41793287"><img width="32px" alt="CSDN" title="CSDN" src="https://user-images.githubusercontent.com/68093996/213606651-edf7c8bb-ef5a-4c55-947a-ee50bd8f6085.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.kaggle.com/giftoys"><img width="32px" alt="Kaggle" title="Kaggle" src="https://user-images.githubusercontent.com/68093996/213606764-cca20aea-fa09-4cd9-8433-5c5f6699235e.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://leetcode.cn/u/gift-w"><img width="32px" alt="LeetCode" title="LeetCode" src="https://user-images.githubusercontent.com/68093996/213604877-d64cac94-96d3-4d4f-9dc0-38b435bfd199.png"/></a>
-</p>
--->
-
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/Gift-OYS"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGift-OYS&labelColor=282c34&color=4D5463&logo=github&longCache=true&style=for-the-badge" ></a>
   <a href="https://space.bilibili.com/353927120"><img src="https://img.shields.io/badge/dynamic/json?color=F89EB3&labelColor=f27596&label=Bilibili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D353927120&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true&style=for-the-badge" ></a> 
@@ -121,14 +103,18 @@
 
 <details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
-
+  
+  <h3>🐍 Contribution Snake</h3>
+  <p align="center">
+    <img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
+  </p>
+  
   <h3>🔥 Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p align="center">
     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
     <img align="center" src="https://streak-stats.demolab.com?user=Gift-OYS&theme=highcontrast"/>
     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-</div> 
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
