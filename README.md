@@ -51,6 +51,10 @@
   <summary><h2>🛠️ Languages and Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white&style=flat-square">
+  <img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat-square&logo=Adobe%20Dreamweaver&logoColor=white">
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white&style=flat-square"> 
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"> 
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka&style=flat-square"> 
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=flat-square">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=flat-square">
   <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=flat-square">
@@ -59,21 +63,19 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=flat-square">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=flat-square">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=flat-square">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white">   
   <img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white&style=flat-square"> 
-  <!-- ```hadoop```
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> -->
-  <!-- ```hive```
-  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> -->
+  <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white">
+  <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=flat-square">
   <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=flat-square">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=flat-square">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=flat-square">
-  <img alt="Spache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka&style=flat-square"> 
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white&style=flat-square">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white&style=flat-square">
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06&style=flat-square">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square"> 
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=flat-square">
-  <!-- ```matlab```
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> -->
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=flat-square">
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white&style=flat-square"> 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=flat-square">
@@ -81,28 +83,25 @@
   <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white&style=flat-square">
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white&style=flat-square">
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white&style=flat-square"> 
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=flat-square">
   <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white&style=flat-square"> 
   <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white&style=flat-square">
+  <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=whitestyle=flat-square">
   <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white&style=flat-square"> 
+  <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white">   
   <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white&style=flat-square"> 
   <img alt="Scikit_learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white&style=flat-square"> 
-  <!-- ```seaborn```
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> -->
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white&style=flat-square"> 
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=flat-square">
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white&style=flat-square"> 
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square">
   <img alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=flat-square"> 
-  <!-- ```wx_widgets```
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
-  -->
+  <img alt="Wikipedia" src="https://img.shields.io/badge/Wikipedia-%23000000.svg?logo=wikipedia&logoColor=white&style=flat-square"> 
 </details>
 
 <details open> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <summary><h2>📊 Github Contribution and Stats</h2></summary>
   
   <h3>🐍 Contribution Snake</h3>
   <p align="center">
