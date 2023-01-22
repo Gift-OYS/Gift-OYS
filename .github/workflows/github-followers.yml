@@ -13,7 +13,7 @@ jobs:
 
       - name: use github-follower-action to update README.md
         id: github-follower
-        uses: Gift-OYS/github-followers@main
+        uses: JieDing/github-followers@main
         env:
           login: ${{ github.repository_owner }}
           pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
