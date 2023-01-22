@@ -41,10 +41,12 @@
   </p>
 </details>
 
+<!--ACTION_START_FLAG:github-followers-->
+<!--ACTION_END_FLAG:github-followers-->
+
 <details open> 
   <summary><h2>:sparkles: My Followers</h2></summary>
-  <!--ACTION_START_FLAG:github-followers-->
-<!--ACTION_END_FLAG:github-followers-->
+
 </details>
 
 <details open> 
