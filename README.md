@@ -33,7 +33,7 @@
 </p>
 
 <details open> 
-  <summary><h2>😄Wanna play a game?</h2></summary>
+  <summary><h2>😄Wanna play a game??</h2></summary>
   <p align="center">
     <a href="http://wayou.github.io/t-rex-runner/">
       <img alt="T-Rex Runner" src="https://user-images.githubusercontent.com/68093996/213858932-10d6aa8e-d888-4a7e-819c-74cd0c01e707.gif" />
