@@ -42,12 +42,7 @@
 </details>
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="center">
-    
-  </p>
+  <summary><h2>📘 My Followers</h2></summary>
 </details>
 
 <details open> 
@@ -101,7 +96,8 @@
   <img alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=flat-square"> 
   <!-- ```wx_widgets```
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
-</details>-->
+  -->
+</details>
 
 <details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
