@@ -1,4 +1,5 @@
 <p align="center">
+
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+intelligence+learner;Experienced+software+engineer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&pause=1000&size=22" />
 </p>
@@ -123,3 +124,7 @@
     <img alt="Gift-OYS's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Gift-OYS&theme=react-dark" />
   </p>
 </details>
+<br/>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Gift-OYS/count.svg" />
+</p>
