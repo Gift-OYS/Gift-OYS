@@ -1,8 +1,7 @@
-name: Get Top Followers
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 20 * * *'
 jobs:
@@ -17,11 +16,11 @@ jobs:
         uses: JieDing/github-followers@main
         env:
           login: ${{ github.repository_owner }}
-          pat: ${{ secrets.ACCESS_TOKEN }}
+          pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Commit changes
         run: |
-            git config --local user.email "eryajf@163.com"
-            git config --local user.name "eryajf"
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
             git add -A
             git diff-index --quiet HEAD || git commit -m "Update GitHub followers"
       - name: Pull changes
@@ -29,5 +28,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
