@@ -29,4 +29,4 @@ jobs:
           target_branch: snake
           build_dir: dist
         env:
-          github_token: ${{ secrets.PROFILE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
