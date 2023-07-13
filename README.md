@@ -50,12 +50,12 @@
 <details open> 
   <summary><h2>🛠️ Languages and Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white&style=flat-square">
-  <img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat-square&logo=Adobe%20Dreamweaver&logoColor=white">
+<!--   <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white&style=flat-square"> -->
+<!--   <img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat-square&logo=Adobe%20Dreamweaver&logoColor=white"> -->
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white&style=flat-square"> 
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"> 
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"> 
-  <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"> 
+<!--   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">  -->
+<!--   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white">  -->
   <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka&style=flat-square"> 
   <img alt="Apache Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white&style=flat-square"> 
   <img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?logo=apple&logoColor=white&style=flat-square"> 
@@ -65,25 +65,25 @@
   <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=flat-square">
   <img alt="Cent OS" src="https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=F0F0F0&style=flat-square">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=flat-square">
-  <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=flat-square">
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=flat-square">
-  <img alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?logo=ea&logoColor=white&style=flat-square">
+<!--   <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=flat-square"> -->
+<!--   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=flat-square"> -->
+<!--   <img alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?logo=ea&logoColor=white&style=flat-square"> -->
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white&style=flat-square">
-  <img alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?logo=epicgames&logoColor=white&style=flat-square">
+<!--   <img alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?logo=epicgames&logoColor=white&style=flat-square"> -->
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=flat-square">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=flat-square">
   <img alt="Gitee" src="https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=white&style=flat-square">
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?ogo=github&logoColor=white&style=flat-square">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="GitLab Actions" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white">
-  <img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white&style=flat-square"> 
-  <img alt="GoLand" src="https://img.shields.io/badge/GoLand-0f0f0f?logo=goland&style=flat-square"> 
+<!--   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"> -->
+<!--   <img alt="GitLab Actions" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white"> -->
+<!--   <img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white&style=flat-square">  -->
+<!--   <img alt="GoLand" src="https://img.shields.io/badge/GoLand-0f0f0f?logo=goland&style=flat-square">  -->
   <img alt="Google" src="https://img.shields.io/badge/google-4285F4?logo=google&logoColor=white&style=flat-square"> 
-  <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white">
-  <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white">
+<!--   <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white"> -->
+<!--   <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white"> -->
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=flat-square">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&style=flat-square">
-  <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=flat-square">
+<!--   <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=flat-square"> -->
   <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=flat-square">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=flat-square">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=flat-square">
@@ -93,44 +93,44 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square"> 
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=flat-square">
   <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white&style=flat-square">
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square">
-  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=flat-square">
-  <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat-square">
-  <img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white&style=flat-square">
-  <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white&style=flat-square">
+<!--   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square"> -->
+<!--   <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=flat-square"> -->
+<!--   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat-square"> -->
+<!--   <img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white&style=flat-square"> -->
+<!--   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white&style=flat-square"> -->
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white&style=flat-square">
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white&style=flat-square"> 
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=flat-square">
+<!--   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=flat-square"> -->
   <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2b%2b&logoColor=black&style=flat-square">
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white&style=flat-square">
   <img alt="NVIDIA" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?logo=nVIDIA&logoColor=white&style=flat-square">
-  <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white&style=flat-square">
+<!--   <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white&style=flat-square"> -->
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white&style=flat-square">
-  <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=flat-square">
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white&style=flat-square">
+<!--   <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=flat-square"> -->
+<!--   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white&style=flat-square"> -->
   <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green&style=flat-square">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=flat-square">
   <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white&style=flat-square"> 
   <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white&style=flat-square">
-  <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=flat-square">
+<!--   <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white&style=flat-square"> -->
   <img alt="RStudio" src="https://img.shields.io/badge/RStudio-4285F4?logo=rstudio&logoColor=white&style=flat-square">
   <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white&style=flat-square"> 
-  <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white">   
+<!--   <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white">    -->
   <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white&style=flat-square"> 
   <img alt="Scikit_learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white&style=flat-square">
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white&style=flat-square">   
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white&style=flat-square"> 
   <img alt="Spyder" src="https://img.shields.io/badge/Spyder-838485?logo=spyder%20ide&logoColor=maroon&style=flat-square"> 
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square">
-  <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white&style=flat-square">
-  <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important&style=flat-square">
+<!--   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square"> -->
+<!--   <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?logo=steam&logoColor=white&style=flat-square"> -->
+<!--   <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important&style=flat-square"> -->
   <img alt="Tencent QQ" src="https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?logo=tencentqq&logoColor=white&style=flat-square">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=flat-square">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square">
-  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white&style=flat-square"> 
+<!--   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white&style=flat-square">  -->
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=flat-square"> 
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square">
+<!--   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square"> -->
   <img alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=flat-square"> 
   <img alt="WeChat" src="https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white&style=flat-square"> 
   <img alt="Wikipedia" src="https://img.shields.io/badge/Wikipedia-%23000000.svg?logo=wikipedia&logoColor=white&style=flat-square"> 
