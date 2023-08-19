@@ -27,21 +27,6 @@
   <summary><h2>:sparkles: Welcome to follow me!</h2></summary>
   <!--ACTION_START_FLAG:github-followers-->
 <table>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/BlankSpacePlus">
-            <img src="https://avatars2.githubusercontent.com/u/50993163" width="100px;" alt="BlankSpacePlus"/>
-        </a>
-        <br />
-        <a href="https://github.com/BlankSpacePlus">ONCE</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/JohnChilliz">
-            <img src="https://avatars2.githubusercontent.com/u/114640783" width="100px;" alt="JohnChilliz"/>
-        </a>
-        <br />
-        <a href="https://github.com/JohnChilliz">JohnChilliz</a>
-    </td>
   </tr>
 </table>
 <!--ACTION_END_FLAG:github-followers-->
