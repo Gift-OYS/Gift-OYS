@@ -2,7 +2,7 @@ name: Get Top Followers
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: "0 20 * * *"
 jobs:
@@ -11,16 +11,15 @@ jobs:
     name: A job to display github followers in your profile
     steps:
       - uses: actions/checkout@v3
-
       - name: use github-follower-action to update README.md
         id: github-follower
         uses: JieDing/github-followers@main
         env:
           login: ${{ github.repository_owner }}
-          pat: ${{ secrets.ACCESS_TOKEN }}
+          pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Commit changes
         run: |
-          git config --local user.email "ouyangsong2014@163.com"
+          git config --local user.email "ouyangsong201@163.com"
           git config --local user.name "gift-oys"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update GitHub followers"
@@ -29,5 +28,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           branch: ${{ github.ref }}
