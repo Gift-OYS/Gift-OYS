@@ -127,10 +127,9 @@
 
 <details open> 
   <summary><h2>📊 Github Contribution and Stats</h2></summary>
-  
   <h3>🐍 Contribution Snake</h3>
   <p align="center">
-    <img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
+    <img align="center" width="100%" src="https://raw.githubusercontent.com/Gift-OYS/Gift-OYS/output/github-contribution-grid-snake-dark.svg"/>
   </p>
   
   <h3>🔥 Streak Stats</h3>
