@@ -1,32 +1,34 @@
 name: Get Top Followers
+
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: "0 20 * * *"
+    - cron: '0 20 * * *'
+
 jobs:
-  github_followers_job:
+  top-followers:
     runs-on: ubuntu-latest
-    name: A job to display github followers in your profile
     steps:
-      - uses: actions/checkout@v3
-      - name: use github-follower-action to update README.md
-        id: github-follower
-        uses: Gift-OYS/github-followers@main
-        env:
-          login: ${{ github.repository_owner }}
-          pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - uses: actions/checkout@v2
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install requests
+        run: pip install requests
+      - name: Update README
+        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
       - name: Commit changes
         run: |
-          git config --local user.email "ouyangsong201@163.com"
-          git config --local user.name "gift-oys"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Update GitHub followers"
+          git diff-index --quiet HEAD || git commit -m "Update top followers"
       - name: Pull changes
         run: git pull -r
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
