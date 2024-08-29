@@ -179,8 +179,8 @@
   <h3>💻 GitHub Profile Stats</h3>
   <!-- https://github.com/jstrieb/github-stats -->
   <p align="center">
-    <img alt="Gift-OYS's Github Stats" src="https://raw.githubusercontent.com/Gift-OYS/my-github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    <img alt="Gift-OYS's Top Languages" src="https://raw.githubusercontent.com/Gift-OYS/my-github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+    <img alt="Gift-OYS's Github Stats" src="https://raw.githubusercontent.com/Gift-OYS/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+    <img alt="Gift-OYS's Top Languages" src="https://raw.githubusercontent.com/Gift-OYS/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
     <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
     <img alt="Gift-OYS's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Gift-OYS&theme=react-dark" />
   </p>
