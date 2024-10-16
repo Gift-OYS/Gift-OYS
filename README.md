@@ -64,12 +64,21 @@
       <a href="https://github.com/WHUminghui">Minghui</a>
     </td>
     <td align="center">
+      <a href="https://github.com/NWPUliuxx">
+        <img src="https://avatars2.githubusercontent.com/u/74445361" width="100px;" alt="NWPUliuxx"/>
+      </a>
+      <br />
+      <a href="https://github.com/NWPUliuxx">GavinLxx</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/JohnChilliz">
         <img src="https://avatars2.githubusercontent.com/u/114640783" width="100px;" alt="JohnChilliz"/>
       </a>
       <br />
       <a href="https://github.com/JohnChilliz">JohnChilliz</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/1611536918">
         <img src="https://avatars2.githubusercontent.com/u/75618463" width="100px;" alt="1611536918"/>
