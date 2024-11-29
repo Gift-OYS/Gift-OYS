@@ -29,13 +29,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/eust-w">
-        <img src="https://avatars2.githubusercontent.com/u/39115651" width="100px;" alt="eust-w"/>
-      </a>
-      <br />
-      <a href="https://github.com/eust-w">longtao</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DonJon86">
         <img src="https://avatars2.githubusercontent.com/u/53374743" width="100px;" alt="DonJon86"/>
       </a>
@@ -77,8 +70,6 @@
       <br />
       <a href="https://github.com/JohnChilliz">JohnChilliz</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/1611536918">
         <img src="https://avatars2.githubusercontent.com/u/75618463" width="100px;" alt="1611536918"/>
