@@ -36,13 +36,6 @@
       <a href="https://github.com/DonJon86">DonJon86</a>
     </td>
     <td align="center">
-      <a href="https://github.com/BlankSpacePlus">
-        <img src="https://avatars2.githubusercontent.com/u/50993163" width="100px;" alt="BlankSpacePlus"/>
-      </a>
-      <br />
-      <a href="https://github.com/BlankSpacePlus">BlankSpacePlus</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ocean146">
         <img src="https://avatars2.githubusercontent.com/u/76692832" width="100px;" alt="ocean146"/>
       </a>
