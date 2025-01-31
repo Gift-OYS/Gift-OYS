@@ -29,13 +29,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/CoreUnitNET">
-        <img src="https://avatars2.githubusercontent.com/u/186106612" width="100px;" alt="CoreUnitNET"/>
-      </a>
-      <br />
-      <a href="https://github.com/CoreUnitNET">CoreUnitNET</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DonJon86">
         <img src="https://avatars2.githubusercontent.com/u/53374743" width="100px;" alt="DonJon86"/>
       </a>
