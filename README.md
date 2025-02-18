@@ -57,6 +57,13 @@
       <a href="https://github.com/NWPUliuxx">GavinLxx</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Monica-Gao">
+        <img src="https://avatars2.githubusercontent.com/u/67726540" width="100px;" alt="Monica-Gao"/>
+      </a>
+      <br />
+      <a href="https://github.com/Monica-Gao">Monica-Gao</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/JohnChilliz">
         <img src="https://avatars2.githubusercontent.com/u/114640783" width="100px;" alt="JohnChilliz"/>
       </a>
