@@ -61,7 +61,7 @@
         <img src="https://avatars2.githubusercontent.com/u/67726540" width="100px;" alt="Monica-Gao"/>
       </a>
       <br />
-      <a href="https://github.com/Monica-Gao">Monica-Gao</a>
+      <a href="https://github.com/Monica-Gao">Mengqi Gao</a>
     </td>
     <td align="center">
       <a href="https://github.com/JohnChilliz">
