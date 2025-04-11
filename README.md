@@ -54,7 +54,7 @@
         <img src="https://avatars2.githubusercontent.com/u/74445361" width="100px;" alt="NWPUliuxx"/>
       </a>
       <br />
-      <a href="https://github.com/NWPUliuxx">GavinLxx</a>
+      <a href="https://github.com/NWPUliuxx">Gavin</a>
     </td>
     <td align="center">
       <a href="https://github.com/Monica-Gao">
