@@ -57,18 +57,18 @@
       <a href="https://github.com/ocean146">ocean146</a>
     </td>
     <td align="center">
-      <a href="https://github.com/NWPUliuxx">
-        <img src="https://avatars2.githubusercontent.com/u/74445361" width="100px;" alt="NWPUliuxx"/>
-      </a>
-      <br />
-      <a href="https://github.com/NWPUliuxx">Gavin</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/WHUminghui">
         <img src="https://avatars2.githubusercontent.com/u/77569100" width="100px;" alt="WHUminghui"/>
       </a>
       <br />
       <a href="https://github.com/WHUminghui">Minghui</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NWPUliuxx">
+        <img src="https://avatars2.githubusercontent.com/u/74445361" width="100px;" alt="NWPUliuxx"/>
+      </a>
+      <br />
+      <a href="https://github.com/NWPUliuxx">Gavin</a>
     </td>
     <td align="center">
       <a href="https://github.com/Monica-Gao">
