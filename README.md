@@ -36,6 +36,13 @@
       <a href="https://github.com/standardgalactic">Cogito Ergo Sum</a>
     </td>
     <td align="center">
+      <a href="https://github.com/motanelson">
+        <img src="https://avatars2.githubusercontent.com/u/118323821" width="100px;" alt="motanelson"/>
+      </a>
+      <br />
+      <a href="https://github.com/motanelson">nelson jr mota</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/DonJon86">
         <img src="https://avatars2.githubusercontent.com/u/53374743" width="100px;" alt="DonJon86"/>
       </a>
@@ -70,6 +77,8 @@
       <br />
       <a href="https://github.com/NWPUliuxx">Gavin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Monica-Gao">
         <img src="https://avatars2.githubusercontent.com/u/67726540" width="100px;" alt="Monica-Gao"/>
@@ -77,8 +86,6 @@
       <br />
       <a href="https://github.com/Monica-Gao">Mengqi Gao</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/JohnChilliz">
         <img src="https://avatars2.githubusercontent.com/u/114640783" width="100px;" alt="JohnChilliz"/>
