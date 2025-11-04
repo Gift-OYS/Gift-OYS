@@ -50,6 +50,13 @@
       <a href="https://github.com/DonJon86">DonJon86</a>
     </td>
     <td align="center">
+      <a href="https://github.com/crisprking">
+        <img src="https://avatars2.githubusercontent.com/u/222865473" width="100px;" alt="crisprking"/>
+      </a>
+      <br />
+      <a href="https://github.com/crisprking">crisprking</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/DreamMr">
         <img src="https://avatars2.githubusercontent.com/u/28838045" width="100px;" alt="DreamMr"/>
       </a>
@@ -70,6 +77,8 @@
       <br />
       <a href="https://github.com/WHUminghui">Minghui</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/NWPUliuxx">
         <img src="https://avatars2.githubusercontent.com/u/74445361" width="100px;" alt="NWPUliuxx"/>
@@ -77,8 +86,6 @@
       <br />
       <a href="https://github.com/NWPUliuxx">Gavin</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Monica-Gao">
         <img src="https://avatars2.githubusercontent.com/u/67726540" width="100px;" alt="Monica-Gao"/>
