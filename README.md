@@ -43,18 +43,18 @@
       <a href="https://github.com/motanelson">nelson jr mota</a>
     </td>
     <td align="center">
-      <a href="https://github.com/crisprking">
-        <img src="https://avatars2.githubusercontent.com/u/222865473" width="100px;" alt="crisprking"/>
-      </a>
-      <br />
-      <a href="https://github.com/crisprking">crisprking</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/DonJon86">
         <img src="https://avatars2.githubusercontent.com/u/53374743" width="100px;" alt="DonJon86"/>
       </a>
       <br />
       <a href="https://github.com/DonJon86">DonJon86</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/crisprking">
+        <img src="https://avatars2.githubusercontent.com/u/222865473" width="100px;" alt="crisprking"/>
+      </a>
+      <br />
+      <a href="https://github.com/crisprking">crisprking</a>
     </td>
     <td align="center">
       <a href="https://github.com/DreamMr">
