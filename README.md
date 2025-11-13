@@ -43,13 +43,6 @@
       <a href="https://github.com/motanelson">nelson jr mota</a>
     </td>
     <td align="center">
-      <a href="https://github.com/wachawo">
-        <img src="https://avatars2.githubusercontent.com/u/167337375" width="100px;" alt="wachawo"/>
-      </a>
-      <br />
-      <a href="https://github.com/wachawo">Aleksandr Pimenov</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/crisprking">
         <img src="https://avatars2.githubusercontent.com/u/222865473" width="100px;" alt="crisprking"/>
       </a>
@@ -77,8 +70,6 @@
       <br />
       <a href="https://github.com/ocean146">ocean146</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/WHUminghui">
         <img src="https://avatars2.githubusercontent.com/u/77569100" width="100px;" alt="WHUminghui"/>
@@ -86,6 +77,8 @@
       <br />
       <a href="https://github.com/WHUminghui">Minghui</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/NWPUliuxx">
         <img src="https://avatars2.githubusercontent.com/u/74445361" width="100px;" alt="NWPUliuxx"/>
