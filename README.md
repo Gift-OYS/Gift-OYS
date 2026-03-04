@@ -36,6 +36,13 @@
       <a href="https://github.com/standardgalactic">Cogito Ergo Sum</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ishandutta2007">
+        <img src="https://avatars2.githubusercontent.com/u/2527354" width="100px;" alt="ishandutta2007"/>
+      </a>
+      <br />
+      <a href="https://github.com/ishandutta2007">ishan dutta</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/motanelson">
         <img src="https://avatars2.githubusercontent.com/u/118323821" width="100px;" alt="motanelson"/>
       </a>
@@ -70,6 +77,8 @@
       <br />
       <a href="https://github.com/zxy230">Zhou Xingyu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/ocean146">
         <img src="https://avatars2.githubusercontent.com/u/76692832" width="100px;" alt="ocean146"/>
@@ -77,8 +86,6 @@
       <br />
       <a href="https://github.com/ocean146">ocean146</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/WHUminghui">
         <img src="https://avatars2.githubusercontent.com/u/77569100" width="100px;" alt="WHUminghui"/>
