@@ -64,21 +64,12 @@
       <a href="https://github.com/DreamMr">Wenbin Wang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zxy230">
-        <img src="https://avatars2.githubusercontent.com/u/147614548" width="100px;" alt="zxy230"/>
-      </a>
-      <br />
-      <a href="https://github.com/zxy230">Zhou Xingyu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ocean146">
         <img src="https://avatars2.githubusercontent.com/u/76692832" width="100px;" alt="ocean146"/>
       </a>
       <br />
       <a href="https://github.com/ocean146">ocean146</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/WHUminghui">
         <img src="https://avatars2.githubusercontent.com/u/77569100" width="100px;" alt="WHUminghui"/>
@@ -86,12 +77,21 @@
       <br />
       <a href="https://github.com/WHUminghui">Minghui</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/NWPUliuxx">
         <img src="https://avatars2.githubusercontent.com/u/74445361" width="100px;" alt="NWPUliuxx"/>
       </a>
       <br />
       <a href="https://github.com/NWPUliuxx">Gavin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zxy230">
+        <img src="https://avatars2.githubusercontent.com/u/147614548" width="100px;" alt="zxy230"/>
+      </a>
+      <br />
+      <a href="https://github.com/zxy230">Zhou Xingyu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Monica-Gao">
