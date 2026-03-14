@@ -40,7 +40,7 @@
         <img src="https://avatars2.githubusercontent.com/u/2527354" width="100px;" alt="ishandutta2007"/>
       </a>
       <br />
-      <a href="https://github.com/ishandutta2007">ishan dutta</a>
+      <a href="https://github.com/ishandutta2007">Ishan Dutta</a>
     </td>
     <td align="center">
       <a href="https://github.com/motanelson">
