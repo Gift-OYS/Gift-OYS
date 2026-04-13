@@ -101,6 +101,13 @@
       <a href="https://github.com/zxy230">Zhou Xingyu</a>
     </td>
     <td align="center">
+      <a href="https://github.com/khanghl">
+        <img src="https://avatars2.githubusercontent.com/u/218776025" width="100px;" alt="khanghl"/>
+      </a>
+      <br />
+      <a href="https://github.com/khanghl">khanghl</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Monica-Gao">
         <img src="https://avatars2.githubusercontent.com/u/67726540" width="100px;" alt="Monica-Gao"/>
       </a>
