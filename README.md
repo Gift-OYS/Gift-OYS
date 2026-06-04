@@ -54,7 +54,7 @@
         <img src="https://avatars2.githubusercontent.com/u/28838045" width="100px;" alt="DreamMr"/>
       </a>
       <br />
-      <a href="https://github.com/DreamMr">Wenbin Wang</a>
+      <a href="https://github.com/DreamMr">Bill Wang</a>
     </td>
     <td align="center">
       <a href="https://github.com/123THU">
